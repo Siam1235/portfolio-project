@@ -19,8 +19,8 @@ h1{
 }
 .half-width img{
     width: 80%;
-    margin-top: 20px;
-    padding-bottom: 150px;
+    
+    
 }
 .top-section{
     background-image: url("Images/top-banner.png");
@@ -35,7 +35,7 @@ h1{
     color: white;
     font-weight: 700;
 }
-h3{
+.second-section h3{
     font-size: 40px;
 }
 h4{
@@ -51,4 +51,12 @@ p{
     background-repeat: no-repeat;
     background-position: right;
     
+    
+}
+.last-section{
+    height: 500px;
+}
+
+.BOLD-TITLE{
+    text-align: center;
 }
