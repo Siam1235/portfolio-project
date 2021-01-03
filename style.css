@@ -55,8 +55,34 @@ p{
 }
 .last-section{
     height: 500px;
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
 }
 
 .BOLD-TITLE{
     text-align: center;
+}
+.shadow{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 70%;
+    background-color: white;
+
+}
+
+#full-stack{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, lightsalmon, orange);
+    border-image-slice: 1;
+}
+
+#baby-web{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, rgb(1, 39, 255), rgba(5, 201, 250, 0.966));
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 14px;
 }
